@@ -4,7 +4,8 @@ I build **reproducible simulations** and **privacy-aware civic/volunteer tools**
 I care about clear assumptions, measurable trade-offs, and small systems that are easy to run and audit.
 
 ## If you only have 5 minutes
-**My repos aren't working properly right now. I'm fixing that right now. 04/03/26 all work completed**
+## **My repos aren't working properly right now. I'm fixing that right now. 05/03/26 all finally work completed**
+
 Start here:
 
 - **EconPolicySim** — agent-based toy economy for tax/UBI tradeoffs (metrics + sweeps).  
@@ -33,4 +34,5 @@ Start here:
 
 
 > Note: some projects are educational demos; please read each repo’s safety/privacy notes.
+
 
