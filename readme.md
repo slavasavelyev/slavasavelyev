@@ -4,7 +4,7 @@ I build **reproducible simulations** and **privacy-aware civic/volunteer tools**
 I care about clear assumptions, measurable trade-offs, and small systems that are easy to run and audit.
 
 ## If you only have 5 minutes
-## **My repos aren't working properly right now. I'm fixing that right now. _06/03/26_ all finally work completed**
+## **My repos aren't working properly right now. I'm fixing that right now (really, now 06/03/2026 10:39 pm)
 
 Start here:
 
@@ -34,6 +34,7 @@ Start here:
 
 
 > Note: some projects are educational demos; please read each repo’s safety/privacy notes.
+
 
 
 
