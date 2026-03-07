@@ -22,17 +22,27 @@ Start here:
 - Privacy-by-design (reduce location leakage while keeping utility)
 - Computer vision pipelines (real-time constraints, calibration, measurement error)
 
+## What I care about
+- Reproducibility first: one-command runs, documented assumptions, simple setup
+- Evidence over claims: plots, metrics, benchmarks, and limitations
+- Readable systems: small codebases with clear trade-offs
+- Privacy by design where location or personal data is involved
+
 ## How I work (portfolio signal)
 - **Reproducibility first**: one-command runs, pinned dependencies, documented assumptions.
 - **Testable core**: keep algorithms in pure functions; test edge cases and invariants.
 - **Evidence over vibes**: plots, benchmarks, and written limitations.
 
+## Tech
+Python, FastAPI, SQLite, OpenCV, MediaPipe, PyQt, numerical simulation, testing/CI
+  
 ## Contact
 - Email: vych.savelev@gmail.com
 - Time zone: Europe/ GMT+3
 
 
 > Note: some projects are educational demos; please read each repo’s safety/privacy notes.
+
 
 
 
