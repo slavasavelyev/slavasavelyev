@@ -3,6 +3,15 @@
 I build **reproducible simulations** and **privacy-aware civic/volunteer tools**.
 I care about clear assumptions, measurable trade-offs, and small systems that are easy to run and audit.
 
+Python engineer building reproducible simulations, computer-vision prototypes, and privacy-aware civic tools.
+
+I like projects where the value can be demonstrated, measured, and explained:
+- simulation models with explicit assumptions,
+- CV systems with observable outputs,
+- small backend products that are practical to run and audit.
+
+Below are 4 representative projects that show how I think about engineering quality, reproducibility, and product scope.
+
 ## If you only have 5 minutes
 
 Start here:
@@ -42,6 +51,7 @@ Python, FastAPI, SQLite, OpenCV, MediaPipe, PyQt, numerical simulation, testing/
 
 
 > Note: some projects are educational demos; please read each repo’s safety/privacy notes.
+
 
 
 
